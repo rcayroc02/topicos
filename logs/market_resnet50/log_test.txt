@@ -1,0 +1,12 @@
+==========
+Args:Namespace(dataset='market1501', batch_size=256, workers=4, height=256, width=128, arch='resnet50', features=0, dropout=0, resume='logs/market_resnet50/model_best.pth.tar', rerank=False, seed=1, data_dir='C:\\Users\\ROG\\Desktop\\tecnica_2\\GroupSampling\\examples\\data')
+==========
+=> Market1501 loaded
+Dataset statistics:
+  ----------------------------------------
+  subset   | # ids | # images | # cameras
+  ----------------------------------------
+  train    |   751 |    12936 |         6
+  query    |   750 |     3368 |         6
+  gallery  |   751 |    15913 |         6
+  ----------------------------------------

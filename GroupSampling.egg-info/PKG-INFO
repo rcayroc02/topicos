@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: GroupSampling
+Version: 1.0.0
+Summary: Group Sampling for Unsupervised Person Re-identification
+Home-page: https://github.com/wavinflaghxm/GroupSampling
+Author: wavinflaghxm
+Author-email: 
+Keywords: Unsupervised Learning,Contrastive Learning,Person Re-identification
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: six
+Requires-Dist: h5py
+Requires-Dist: Pillow
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: metric-learn
+Requires-Dist: faiss
